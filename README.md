@@ -1,4 +1,4 @@
-# Author : Tufail Rahman
+<b>Author</b> : Tufail Rahman
 # Project Name : Watheria
 # Description :  Simple web app to get the weather of your favourite website
 # Written in: HTML5, Javascript, Jquery, Sass sings Openweathermap API
